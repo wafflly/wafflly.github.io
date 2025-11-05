@@ -1,12 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+# title: Teaching
+# description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching at UW
 
-Organize your courses by years, topics, or universities, however you like!
+**Teaching Assistant**  
+- **Winter 2024**
+  - **LING 572**: [Advanced Statistical Methods in Natural Language Processing](https://linguistics.washington.edu/courses/2025/winter/ling/572/a)
+  - **LING 571**: [Deep Processing Techniques in Natural Language Processing](https://linguistics.washington.edu/courses/2024/winter/ling/571/a)
+
+## Teaching at PalmDrive
+
+**Instructor**  
+- **SAT Verbal & Math**
+- **GMAT Quantitative**
+- **IELTS Speaking & Writing**
+- **TOEFL Speaking & Writing**
