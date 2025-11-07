@@ -45,21 +45,26 @@ ninja.data = [{
             window.location.href = "/_pages/dropdown/";
           },
         },{id: "news-1-paper-accepted-to-emnlp-2025",
-          title: '1 paper accepted to EMNLP 2025.',
+          title: '1 paper accepted to EMNLP 2025',
           description: "",
           section: "News",},{id: "news-1-paper-accepted-to-clinical-nlp-2025",
-          title: '1 paper accepted to Clinical NLP 2025.',
+          title: '1 paper accepted to Clinical NLP 2025',
           description: "",
-          section: "News",},{id: "news-going-to-gay-bar-in-caphill-sparkles-sparkles-sparkles",
-          title: 'Going to Gay Bar in CapHill [:sparkles::sparkles::sparkles:]',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "projects-course-scheduling",
+          section: "News",},{id: "projects-course-scheduling",
           title: 'Course Scheduling',
           description: "ILP Optimization System",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-improving-chinese-clip",
+          title: 'Improving Chinese CLIP',
+          description: "Input manipulation to improve CLIP",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-pitch-change-in-singing",
+          title: 'Pitch Change in Singing',
+          description: "F0 tracking in singing and speaking",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
