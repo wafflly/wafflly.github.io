@@ -5,7 +5,7 @@ permalink: /projects/
 description: past and on-going projects from UW and more
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Text, Speech, Optimization]
 horizontal: false
 ---
 

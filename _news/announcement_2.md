@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-1 paper accepted to [Clinical NLP 2025](https://clinical-nlp.github.io/2025/).
+1 paper accepted to [Clinical NLP 2025](https://clinical-nlp.github.io/2025/)
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper accepted to [EMNLP 2025](https://2025.emnlp.org/).
+1 paper accepted to [EMNLP 2025](https://2025.emnlp.org/)

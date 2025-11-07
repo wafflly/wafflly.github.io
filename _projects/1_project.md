@@ -4,7 +4,7 @@ title: Course Scheduling
 description: ILP Optimization System
 img: assets/img/Course.png
 importance: 1
-category: work
+category: Optimization
 related_publications: false
 ---
 
